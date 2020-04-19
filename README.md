@@ -10,12 +10,12 @@ and *[Michael S. Brown](http://www.cse.yorku.ca/~mbrown/)*<sup>1</sup>
 
 ![fig](https://user-images.githubusercontent.com/37669469/77943202-dacad280-728a-11ea-9136-26cd62a9fbe3.jpg)
 
-Reference code for the paper [Learning to Correct Overexposed and Underexposed Photos.](https://arxiv.org/pdf/2003.11596.pdf) Mahmoud Afifi, Konstantinos G Derpanis, Björn Ommer, and Michael S. Brown, ECCV 2020. If you use this code or our dataset, please cite our paper:
+Reference code for the paper [Learning to Correct Overexposed and Underexposed Photos.](https://arxiv.org/pdf/2003.11596.pdf) Mahmoud Afifi, Konstantinos G Derpanis, Björn Ommer, and Michael S. Brown, arXiv preprint arXiv:2003.11596, 2020. If you use this code or our dataset, please cite our paper:
 ```
-@inproceedings{afifi2020learning,
+@article{afifi2020learning,
   title={Learning to Correct Overexposed and Underexposed Photos},
   author={Afifi, Mahmoud and Derpanis, Konstantinos G, and Ommer, Bj{\"o}rn and Brown, Michael S},
-  booktitle={European Conference on Computer Vision},
+  journal={arXiv preprint arXiv:2003.11596},
   year={2020}
 }
 ```
