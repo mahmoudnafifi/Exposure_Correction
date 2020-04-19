@@ -28,5 +28,5 @@ The code will be available soon!
 The dataset will be available soon!
 
 ### Related Research Projects
-- [Deep White-Balance Editing](https://github.com/mahmoudnafifi/Deep_White_Balance): Deep learning multi-task framework for white-balance editing, (CVPR'20).
+- [Deep White-Balance Editing](https://github.com/mahmoudnafifi/Deep_White_Balance): A deep learning multi-task framework for white-balance editing, (CVPR'20).
 
