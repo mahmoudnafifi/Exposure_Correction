@@ -24,10 +24,9 @@ Reference code for the paper [Learning to Correct Overexposed and Underexposed P
 ### Code:
 The code will be available soon!
 
-![datasetfig](https://user-images.githubusercontent.com/37669469/80766372-49fa4780-8b13-11ea-9f41-4f6d096c679e.jpg)
-
 
 ### Dataset:
+![datasetfig](https://user-images.githubusercontent.com/37669469/80766372-49fa4780-8b13-11ea-9f41-4f6d096c679e.jpg)
 The dataset will be available soon!
 
 ### Related Research Projects
