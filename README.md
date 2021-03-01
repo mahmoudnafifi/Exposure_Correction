@@ -10,13 +10,13 @@ and *[Michael S. Brown](http://www.cse.yorku.ca/~mbrown/)*<sup>1</sup>
 
 ![fig](https://user-images.githubusercontent.com/37669469/77943202-dacad280-728a-11ea-9136-26cd62a9fbe3.jpg)
 
-Reference code for the paper [Learning Multi-Scale Photo Exposure Correction.](https://arxiv.org/pdf/2003.11596.pdf) Mahmoud Afifi, Konstantinos G Derpanis, Björn Ommer, and Michael S. Brown, arXiv preprint arXiv:2003.11596, 2020. If you use this code or our dataset, please cite our paper:
+Reference code for the paper [Learning Multi-Scale Photo Exposure Correction.](https://arxiv.org/pdf/2003.11596.pdf) Mahmoud Afifi, Konstantinos G Derpanis, Björn Ommer, and Michael S. Brown. In CVPR, 2021. If you use this code or our dataset, please cite our paper:
 ```
-@article{afifi2020learning,
+@inproceedings{afifi2021learning,
   title={Learning Multi-Scale Photo Exposure Correction},
   author={Afifi, Mahmoud and Derpanis, Konstantinos G, and Ommer, Bj{\"o}rn and Brown, Michael S},
-  journal={arXiv preprint arXiv:2003.11596},
-  year={2020}
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2021}
 }
 ```
 
