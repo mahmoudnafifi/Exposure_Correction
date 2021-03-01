@@ -41,7 +41,6 @@ The dataset will be available soon!
   - [SIIE](https://github.com/mahmoudnafifi/SIIE): A sensor-independent deep learning framework for illumination estimation (BMVC 2019).
   - [C5](https://github.com/mahmoudnafifi/C5): A self-calibration method for cross-camera illuminant estimation (arXiv 2020).
 - Image Enhancement:
-  - [Exposure Correction for sRGB Images](https://github.com/mahmoudnafifi/Exposure_Correction): A coarse-to-fine deep learning model with adversarial training to correct badly-exposed photographs (CVPR 2021).
   - [CIE XYZ Net](https://github.com/mahmoudnafifi/CIE_XYZ_NET): Mapping to an accurate camera-rendering linearization for different computer vision tasks; e.g., denoising, deblurring, and image enhancement (arXiv 2020).
  - Image Manipulation:
     - [Image Blending](https://github.com/mahmoudnafifi/modified-Poisson-image-editing): Less bleeding artifacts by a simple two-stage Poisson blending approach (CVM 2016).
