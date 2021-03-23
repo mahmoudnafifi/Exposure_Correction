@@ -28,3 +28,5 @@ Project page of the paper [Learning Multi-Scale Photo Exposure Correction.](http
 Download our dataset from the following links:
 [Training](https://ln2.sync.com/dl/141f68cf0/mrt3jtm9-ywbdrvtw-avba76t4-w6fw8fzj) | [Validation](https://ln2.sync.com/dl/49a6738c0/3m3imxpe-w6eqiczn-vripaqcf-jpswtcfr) | [Testing](https://ln2.sync.com/dl/098a6c5e0/cienw23w-usca2rgh-u5fxikex-q7vydzkp)
 
+
+As the dataset was originally rendered using raw images taken from the MIT-Adobe FiveK dataset, our dataset follows the original license of the MIT-Adobe FiveK dataset.
