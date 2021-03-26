@@ -1,7 +1,7 @@
 # Learning Multi-Scale Photo Exposure Correction
 
 *[Mahmoud Afifi](https://sites.google.com/view/mafifi)*<sup>1,2</sup>, 
-*[Konstantinos G Derpanis](https://www.cs.ryerson.ca/kosta/)*<sup>1</sup>, 
+*[Konstantinos G. Derpanis](https://www.cs.ryerson.ca/kosta/)*<sup>1</sup>, 
 *[Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer)*<sup>3</sup>, 
 and *[Michael S. Brown](http://www.cse.yorku.ca/~mbrown/)*<sup>1</sup>
 
@@ -10,7 +10,7 @@ and *[Michael S. Brown](http://www.cse.yorku.ca/~mbrown/)*<sup>1</sup>
 
 ![teaser](https://user-images.githubusercontent.com/37669469/112195503-69dda280-8be0-11eb-9957-c0f72f18f4d4.jpg)
 
-Project page of the paper [Learning Multi-Scale Photo Exposure Correction.](https://arxiv.org/pdf/2003.11596.pdf) Mahmoud Afifi, Konstantinos G Derpanis, Björn Ommer, and Michael S. Brown. In CVPR, 2021. If you use this code or our dataset, please cite our paper:
+Project page of the paper [Learning Multi-Scale Photo Exposure Correction.](https://arxiv.org/pdf/2003.11596.pdf) Mahmoud Afifi, Konstantinos G. Derpanis, Björn Ommer, and Michael S. Brown. In CVPR, 2021. If you use this code or our dataset, please cite our paper:
 ```
 @inproceedings{afifi2021learning,
   title={Learning Multi-Scale Photo Exposure Correction},
